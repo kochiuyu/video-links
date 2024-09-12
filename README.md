@@ -3,7 +3,10 @@ Teaching video links
 
 ## Business Statistics (Introduction)
 
-### AY2020-2021 DSME 2020A
+### AY2021-2022 DSME2021B
+
+
+### AY2020-2021 DSME2021A
 - 08 SEP 2020: https://youtu.be/ac-ZcLt3TlU
 - 10 SEP 2020: https://youtu.be/wPgwnfbxcoE
 - 15 SEP 2020: https://youtu.be/v6O2OAl6zcE
@@ -25,12 +28,8 @@ Teaching video links
 - 12 NOV 2020: https://youtu.be/VNnwb5jiN-A
 - 17 NOV 2020: https://youtu.be/6etdzd6XRco
 - 24 NOV 2020: https://youtu.be/BAH1ZyGLvdc
-- 01 DEC 2020:
-https://youtu.be/SxIDVMIHC-w
-- 03 DEC 2020:
-https://youtu.be/lKlwHxEyprc
 
-### AY2020-2021 DSME 2020H
+### AY2020-2021 DSME2021H
 - 08 SEP 2020: https://youtu.be/BFYtuJiV-iA
 - 10 SEP 2020: https://youtu.be/d8KShLe5KcM
 - 15 SEP 2020: https://youtu.be/bV4yKGLI5n0
