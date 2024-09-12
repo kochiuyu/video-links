@@ -3,6 +3,53 @@ Teaching video links
 
 ## Business Statistics (Introduction)
 
+### AY2023-2024 DSME2021 Section F
+- Lesson  1 (04 SEP 2023): https://youtu.be/Ttx9F7rbCZc
+- Lesson  2 (11 SEP 2023): https://youtu.be/cHwmXuv_Nkk
+- Lesson  3 (14 SEP 2023): https://youtu.be/k5hndkiGMac
+- Lesson  4 (18 SEP 2023): https://youtu.be/SlQReyzo8rM
+- Lesson  5 (21 SEP 2023): https://youtu.be/8XbHQV6z1Pc
+- Lesson  6 (25 SEP 2023): https://youtu.be/FYRsFR1yp5M
+- Lesson  7 (28 SEP 2023): https://youtu.be/-6teQ68alQM
+- Lesson  8 (05 OCT 2023): https://youtu.be/we6WCP5vLWo
+- Lesson  9 (10 OCT 2023): https://youtu.be/vHsF0yo5v48
+- Lesson 10 (12 OCT 2023): https://youtu.be/WOp0Lxy4IyU
+- Lesson 11 (19 OCT 2023): https://youtu.be/huScyRmHhXI
+- Lesson 12 (26 OCT 2023): https://youtu.be/8euDvklqVGw
+- Lesson 13 (30 OCT 2023): https://youtu.be/-_yZpaX-MX0
+- Lesson 14 (02 NOV 2023): https://youtu.be/qcoJaZxyXCE
+- Lesson 15 (13 NOV 2023): https://youtu.be/cAn6tTyYp3I
+- Lesson 16 (16 NOV 2023): https://youtu.be/bN7_3PHS9v8
+- Lesson 17 (21 NOV 2023): https://youtu.be/NeJKg_ibTdE
+- Lesson 18 (23 NOV 2023): https://youtu.be/zXpiF_mnYO4
+- Lesson 19 (27 NOV 2023): https://youtu.be/nMBaAo9fGEk
+- Lesson 20 (30 NOV 2023): https://youtu.be/I7ITMZTLKYk
+
+### AY2023-2024 DSME2021 Section G
+- Lesson  1 (06 SEP 2023): https://youtu.be/prF_LVdwkTU
+- Lesson  2 (13 SEP 2023): https://youtu.be/SPNHWKy5RMc
+- Lesson  3 (15 SEP 2023): https://youtu.be/1FvsoguJKhk
+- Lesson  4 (20 SEP 2023): https://youtu.be/ck3YTA2pQlE
+- Lesson  5 (22 SEP 2023): sorry, technical issue. Not available.
+- Lesson  6 (27 SEP 2023): https://youtu.be/CS_Xg_Tld_g
+- Lesson  7 (29 SEP 2023): https://youtu.be/WEYJdqR62QQ
+- Lesson  8 (04 OCT 2023): https://youtu.be/X5Cfcv-6wj0
+- Lesson  9 (10 OCT 2023): https://youtu.be/Icq83lMkoLQ
+- Lesson 10 (11 OCT 2023): https://youtu.be/haI4QMe1HgY
+- Lesson 11 (13 OCT 2023): https://youtu.be/l6Vwr6WH_9k
+- Lesson 12 (20 OCT 2023): https://youtu.be/KJHv2OlJszY
+- Lesson 13 (25 OCT 2023): https://youtu.be/0OBuCIg6yJQ
+- Lesson 14 (27 OCT 2023): https://youtu.be/DPilKgZkW6M
+- Lesson 15 (03 NOV 2023): https://youtu.be/sJ2kFIhvtQ4
+- Lesson 16 (10 NOV 2023):  https://youtu.be/OXQao4N9szM
+- Lesson 17 (15 NOV 2023): https://youtu.be/vCsLfEKE2Tg
+- Lesson 18 (17 NOV 2023): https://youtu.be/PlIBGF6rcr8
+- Lesson 19 (22 NOV 2023): https://youtu.be/cDjKG-VyVc0
+- Lesson 20 (24 NOV 2023): https://youtu.be/CpYbCTeKIJY
+- Lesson 21 (29 NOV 2023): https://youtu.be/MKkiLee9qYI
+- Lesson 22 (01 DEC 2023): https://youtu.be/dhCHGV8T7c4
+
+
 ### AY2022-2023 DSME2021 Section C
 - 07 SEP 2022: https://youtu.be/GvoNES6vew4
 - 14 SEP 2022: https://youtu.be/WtjJ_GwJpH8
