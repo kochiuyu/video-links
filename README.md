@@ -3,7 +3,55 @@ Teaching video links
 
 ## Business Statistics (Introduction)
 
-### AY2021-2022 DSME2021B
+### AY2022-2023 DSME2021 Section C
+- 07 SEP 2022: https://youtu.be/GvoNES6vew4
+- 14 SEP 2022: https://youtu.be/WtjJ_GwJpH8
+- 19 SEP 2022: https://youtu.be/K4sec6PRFsk
+- 21 SEP 2022: https://youtu.be/jm0NQa1ZX90
+- 26 SEP 2022: https://youtu.be/CiCDl1NXEYg
+- 28 SEP 2022: https://youtu.be/5nISJtzvNh0
+- 03 OCT 2022: https://youtu.be/UQiUsADYKGM
+- 05 OCT 2022: https://youtu.be/61F-_MmWHPY
+- 10 OCT 2022: https://youtu.be/BRDqDxlowaw
+- 12 OCT 2022: https://youtu.be/Ab2f8OJLn8k
+- 17 OCT 2022: https://youtu.be/qDjeQz4LxFY
+- 19 OCT 2022: https://youtu.be/VIoJzdKMSKg
+- 24 OCT 2022: https://youtu.be/lrcpuA6diec
+- 26 OCT 2022: https://youtu.be/BlHu-6d4_Rw
+- 31 OCT 2022: https://youtu.be/8ddcAscAHKg
+- 02 NOV 2022: https://youtu.be/8fNDNwxxVQs
+- 07 NOV 2022: https://youtu.be/EE_1eYJCEdI
+- 09 NOV 2022: https://youtu.be/69KiPmy9IFA
+- 14 NOV 2022: https://youtu.be/xI1cw-k_0Bw
+- 16 NOV 2022: https://youtu.be/15Q1raHLw6M
+- 21 NOV 2022: https://youtu.be/5GpTyc3dDqY
+- 23 NOV 2022: https://youtu.be/SPytCRJGChs
+
+### AY2022-2023 DSME2021 Section E
+- 06 SEP 2022: https://youtu.be/G1j8OjUrgn0
+- 08 SEP 2022: https://youtu.be/glx6qs3VNh4
+- 13 SEP 2022: https://youtu.be/OkC7dF5E1eA
+- 15 SEP 2022: https://youtu.be/rePes68Oehg
+- 20 SEP 2022: https://youtu.be/gvkZefBbSGI
+- 22 SEP 2022: https://youtu.be/Zv_OC09l3kI
+- 27 SEP 2022: https://youtu.be/9-GIFPLu8no
+- 29 SEP 2022: https://youtu.be/WDgPg9VAjVg
+- 06 OCT 2022: https://youtu.be/9P--kIWXRm4
+- 11 OCT 2022: https://youtu.be/5jJr-1g3B_U
+- 13 OCT 2022: https://youtu.be/eF6OiqYJphI
+- 18 OCT 2022: https://youtu.be/2p4D5SE8b7E
+- 20 OCT 2022: https://youtu.be/WTnC5qDWROE
+- 25 OCT 2022: https://youtu.be/I9-WYRwcOtU
+- 27 OCT 2022: https://youtu.be/5418-9ZoeAo
+- 01 NOV 2022: https://youtu.be/Ju9bk6DI3E8
+- 03 NOV 2022: https://youtu.be/1Z1WMeStxIE
+- 08 NOV 2022: https://youtu.be/W1VT7N0wBt8
+- 10 NOV 2022: https://youtu.be/ax6j7EqMumM
+- 15 NOV 2022: https://youtu.be/x5w70X9-EBQ
+- 17 NOV 2022: https://youtu.be/dhGlNFkNW0E
+- 22 NOV 2022: https://youtu.be/cM7mcnljgcY
+
+### AY2021-2022 DSME2021 Section B
 - 06 SEP 2021: https://youtu.be/ud087brLj94
 - 08 SEP 2021: https://youtu.be/JdaQ2QfIqDY
 - 13 SEP 2021: https://youtu.be/R_D46hMLIy4
@@ -27,10 +75,10 @@ Teaching video links
 - 22 NOV 2021: https://youtu.be/L1nzWXJNNi4
 - 29 NOV 2021: https://youtu.be/Qy-7Qyjj3O0
 
-### AY2021-2022 DSME2021E
+### AY2021-2022 DSME2021 Section E
+Not uploaded
 
-
-### AY2020-2021 DSME2021A
+### AY2020-2021 DSME2021 Section A
 - 08 SEP 2020: https://youtu.be/ac-ZcLt3TlU
 - 10 SEP 2020: https://youtu.be/wPgwnfbxcoE
 - 15 SEP 2020: https://youtu.be/v6O2OAl6zcE
@@ -53,7 +101,7 @@ Teaching video links
 - 17 NOV 2020: https://youtu.be/6etdzd6XRco
 - 24 NOV 2020: https://youtu.be/BAH1ZyGLvdc
 
-### AY2020-2021 DSME2021H
+### AY2020-2021 DSME2021 Section H
 - 08 SEP 2020: https://youtu.be/BFYtuJiV-iA
 - 10 SEP 2020: https://youtu.be/d8KShLe5KcM
 - 15 SEP 2020: https://youtu.be/bV4yKGLI5n0
